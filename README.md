@@ -29,6 +29,7 @@ Additional features:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='http://g.recordit.co/OSPv0ZOJKE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Here's a walkthrough of the first bonus feature:
@@ -36,7 +37,7 @@ Here's a walkthrough of the first bonus feature:
 <img src='http://g.recordit.co/BadT7KOetL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Here's a walktrhough of an incomplete second bonus feature 
-<img src='http://g.recordit.co/BadT7KOetL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/ybAUheUkRr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part I. Unit 3 - *TwitterClone*
 
